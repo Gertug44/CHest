@@ -1,0 +1,10 @@
+C:\Users\Xpyct\source\repos\LR2\bin\Debug\LR2.exe.config
+C:\Users\Xpyct\source\repos\LR2\bin\Debug\LR2.exe
+C:\Users\Xpyct\source\repos\LR2\bin\Debug\LR2.pdb
+C:\Users\Xpyct\source\repos\LR2\obj\Debug\LR2.csproj.AssemblyReference.cache
+C:\Users\Xpyct\source\repos\LR2\obj\Debug\LR2.Properties.Resources.resources
+C:\Users\Xpyct\source\repos\LR2\obj\Debug\LR2.csproj.GenerateResource.cache
+C:\Users\Xpyct\source\repos\LR2\obj\Debug\LR2.csproj.CoreCompileInputs.cache
+C:\Users\Xpyct\source\repos\LR2\obj\Debug\LR2.exe
+C:\Users\Xpyct\source\repos\LR2\obj\Debug\LR2.pdb
+C:\Users\Xpyct\source\repos\LR2\obj\Debug\LR2.Form1.resources
